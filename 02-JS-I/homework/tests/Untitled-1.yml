@@ -1,0 +1,7 @@
+VARIABLES: Se utilizan para almacenar o guardar datos en JavaScript para ser usados en una situación posterior o más adelantr
+STRINGS:    Es una cadena de texto,representa una serie de caracteres
+Funciones: Agrupan una serie de códigos para ejecutarlos
+Argumentos: Son las diferentes variables que se incluyen dentro de una función
+Return: Detiene la ejecución de una función para que devuelva o retorne a un valor anterior
+Declaraciones (if): Permite VERIFICAr si una sentencia es verdadera o falsa
+Valores booleanos:  true representa si una declaración es vercadera y false representa si una decarción es falsas
